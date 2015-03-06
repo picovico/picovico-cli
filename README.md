@@ -2,4 +2,4 @@
 
 Command Line Utility for Picovico API
 
-PS: Please use the [https://github.com/picovico/php-sdk](php-sdk) and the included CLI tool inside  `tools/` directory
+PS: Please use the [php-sdk](https://github.com/picovico/php-sdk) and the included CLI tool inside  `tools/` directory
